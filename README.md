@@ -3,7 +3,7 @@ Hotel South-Florida!
 # Description
 Easy, and simple website using HTML & CSS!
 
-# Exapmle
+# Example
 ![](example.gif)
 
 
